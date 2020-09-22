@@ -5,7 +5,7 @@ const FULL_HEART = '♥'
 // Your JavaScript code goes here!
 let glyphStates = {
   '♡': "♥",
-  FULL_HEART: "♡"
+  '♥': "♡"
 };
 let colors = {
   "red":"",
